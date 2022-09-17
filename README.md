@@ -1,5 +1,6 @@
-# php-laravel-docker-image
-Docker image for Laravel
+# Docker image for PHP 8.1 + Laravel 9
+
+Alpine, NGINX, PHP8.1-fpm, Composer, Node.js, Laravel 9
 
 docker-compose.yml example
 
